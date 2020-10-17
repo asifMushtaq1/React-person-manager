@@ -1,0 +1,10 @@
+.Output {
+  background-color: aliceblue;
+  border: 2px solid black;
+  box-shadow: #ccc;
+  padding: 16px;
+  margin: 16px;
+  width: 50%;
+  margin-left: 350px;
+
+}
